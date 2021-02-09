@@ -29,9 +29,10 @@ The current example works over a tcp connection with the WASP operating as a cli
 
 The current example is based on a fork of the drogue-esp8266 crate with modifications to support version 2.1.0.0 of the ESP-AT firmware
 
+---
 ## License
 
-Firmware:
+### Firmware:
 
 Licensed under either of
 
@@ -42,7 +43,7 @@ Licensed under either of
 
 at your option.
 
-Hardware:
+### Hardware:
 
 Licensed under CERN Open Hardware License Permissive, Version 2.0 ([LICENSE-CERN-OHL-P](LICENSE-CERN-OHL-P) or
 https://ohwr.org/cern_ohl_p_v2.txt)
