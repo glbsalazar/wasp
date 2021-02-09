@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name wasp)(type Legacy)(uri ${KIPRJMOD}/wasp.lib)(options "")(descr ""))
+  (lib (name wasp-rescue)(type Legacy)(uri ${KIPRJMOD}/wasp-rescue.lib)(options "")(descr ""))
+)
